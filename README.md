@@ -1,0 +1,1 @@
+This repository, python_basic_exercises, is dedicated to learning and practicing fundamental Python programming concepts. It is designed for beginners who are new to Python and want to build a strong foundation in coding.
